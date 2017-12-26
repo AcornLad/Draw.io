@@ -1,0 +1,22 @@
+{
+  "name": "draw.io",
+  "version": "1.0.0",
+  "description": "Quick Socket-based multiplayer Canvas program to learn synchronizing Canvas over multiple clients",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SushiRabbit/Draw.io.git"
+  },
+  "author": "Conrad Cash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SushiRabbit/Draw.io/issues"
+  },
+  "homepage": "https://github.com/SushiRabbit/Draw.io#readme",
+  "devDependencies": {
+    "nodemon": "^1.14.3"
+  }
+}
